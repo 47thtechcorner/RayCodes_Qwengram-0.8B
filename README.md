@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="YOUTUBE_VIDEO_URL_PLACEHOLDER">
-    <img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_PLACEHOLDER/0.jpg" alt="YOUTUBE_VIDEO_TITLE_PLACEHOLDER">
+  <a href="https://youtu.be/15bFPswd3AA">
+    <img src="https://img.youtube.com/vi/15bFPswd3AA/0.jpg" alt="Qwen 3.8 Memory Hack: This 0.8B AI Steals a 51B Brain Locally! (Qwengram Setup)">
   </a>
-  <h3>📺 <a href="YOUTUBE_VIDEO_URL_PLACEHOLDER">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/15bFPswd3AA">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 🧠 Qwengram 0.8B N-Gram Memory LLM
